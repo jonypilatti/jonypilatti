@@ -7,7 +7,7 @@
 <p>Here you will find content that gives you veridical proof of my knowledge about the following technologies: </p>
 <ul>
 	<li><img src="https://www.w3.org/html/logo/img/mark-only-icon.png" alt="HTML" width= "30px" height="30px"></li>
-	<li>-CSS(and also Bootstrap)</li>
+	<li><img src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo-500x283.png" alt="CSS" width="30px" height="30px"><img src="https://i0.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png?resize=300%2C209&ssl=1" alt="Bootstrap" width="30px" height="30px"></li>
 	<li>Javascript</li>
 	<li>-NodeJs</li>
 	<li>-React(included the brand new React 18)</li>
