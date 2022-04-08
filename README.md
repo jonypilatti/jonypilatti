@@ -18,7 +18,7 @@
 	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDb" width="52px" height="53px">
 	<img src="https://img.icons8.com/color/480/firebase.png" alt="MongoDb" width="52px" height="53px">
 	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_icon_130108.png" alt="Typescript" width="52px" height="53px">
-	<img src="https://www.pinclipart.com/picdir/middle/207-2071102_es7-snippets-react-native-icon-png-clipart.png" alt="React Native" width="52px" height="53px">
+	<img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" alt="React Native" width="52px" height="53px">
 </div>
 	
 <p> </p>
