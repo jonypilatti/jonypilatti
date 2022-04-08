@@ -10,7 +10,7 @@
 	 <img src="https://i0.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png?resize=300%2C209&ssl=1" alt="Bootstrap" width="53px" height="53px">
 	<img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt="Javascript" width="53px" height="53px">
 	<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="NodeJs" width="53px" height="53px">
-	<img src="http://nightdeveloper.net/wp-content/uploads/2018/02/react.png" alt="React" width="53px" height="53px">
+	<img src="http://nightdeveloper.net/wp-content/uploads/2018/02/react.png" alt="React" width="80px" height="53px">
 	<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="53px" height="53px">
 	<img src="https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lgyno4NC7rhy49BAEjN%2F-Lh14lb3LH4C886qWxYA%2F-Lh1DZeIUQennGd9RiHe%2FScreen%20Shot%202019-06-10%20at%2011.30.20%20AM.png?alt=media&token=784b79f6-81b5-4308-97a2-155afb9d496f" alt="ExpressJs" width="53px" height="53px">
 	<img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="Sequelize" width="53px" height="53px">
