@@ -7,7 +7,7 @@
 <p>Here you will find content that gives you veridical proof of my knowledge about the following technologies: </p>
 <div align-content="center" align-self="center">
 	<img src="https://www.w3.org/html/logo/img/mark-only-icon.png" alt="HTML" width= "53px" height="53px"><img src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo-500x283.png" alt="CSS" width="80px" height="58px">
-	 <img src="https://i0.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png?resize=300%2C209&ssl=1" alt="Bootstrap" width="53px" height="53px">
+	 <img src="https://i0.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png?resize=300%2C209&ssl=1" alt="Bootstrap" width="58px" height="53px">
 	<img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt="Javascript" width="53px" height="53px">
 	<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="NodeJs" width="53px" height="53px">
 	<img src="http://nightdeveloper.net/wp-content/uploads/2018/02/react.png" alt="React" width="80px" height="53px">
