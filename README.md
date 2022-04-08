@@ -5,8 +5,7 @@
 	<div>On this Github you will find a collection of practices I completed(or not) since I started programming. Hope you enjoy it!😉</div>
 &nbsp;
 <p>Here you will find content that gives you veridical proof of my knowledge about the following technologies: </p>
-&nbsp;
-&nbsp;
+<div>&nbsp;</div>
 <div align-content="center" align-self="center">
 	<img src="https://www.w3.org/html/logo/img/mark-only-icon.png" alt="HTML" width= "52px" height="53px"><img src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo-500x283.png" alt="CSS" width="58px" height="55px">
 	 <img src="https://i0.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png?resize=300%2C209&ssl=1" alt="Bootstrap" width="50px" height="50px">
@@ -22,8 +21,8 @@
 	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_icon_130108.png" alt="Typescript" width="52px" height="53px">
 	<img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" alt="React Native" width="52px" height="53px">
 </div>
-&nbsp;
-&nbsp;
+<div>&nbsp;
+&nbsp;</div>
 	
 <p> </p>
 <p>🌱I'm currently focused on learning new coding languages like Python and Java. Also interested in learning other web development technologies like Angular and Backbone.</p>
