@@ -6,7 +6,7 @@
 &nbsp;
 <p>Here you will find content that gives you veridical proof of my knowledge about the following technologies: </p>
 <ul>
-	<li>-HTML</li>
+	<li><img src="C:\Users\jonyp\Downloads\logos" alt="HTML"></li>
 	<li>-CSS(and also Bootstrap)</li>
 	<li>Javascript</li>
 	<li>-NodeJs</li>
