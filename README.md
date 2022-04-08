@@ -8,7 +8,7 @@
 <ul>
 	<li>-HTML</li>
 	<li>-CSS(and also Bootstrap)</li>
-	<li>Javascript</li>
+	<li>Javascript <i class="fa-brands fa-js"></i></li>
 	<li>-NodeJs</li>
 	<li>-React(included the brand new React 18)</li>
 	<li>-Redux</li>
