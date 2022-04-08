@@ -8,6 +8,7 @@
 <ul>
 	<li>-HTML</li>
 	<li>-CSS(and also Bootstrap)</li>
+	<li>Javascript</li>
 	<li>-NodeJs</li>
 	<li>-React(included the brand new React 18)</li>
 	<li>-Redux</li>
@@ -20,7 +21,7 @@
 	<li>-React Native</li>
 </ul>
 	
-
+<p> </p>
 <p>🌱I'm currently focused on learning new coding languages like Python and Java. Also interested in learning other web development technologies like Angular and Backbone.</p>
 
 <ul>
