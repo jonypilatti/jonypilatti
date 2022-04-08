@@ -6,14 +6,14 @@
 &nbsp;
 <p>Here you will find content that gives you veridical proof of my knowledge about the following technologies: </p>
 <div align-content="center" align-self="center">
-	<img src="https://www.w3.org/html/logo/img/mark-only-icon.png" alt="HTML" width= "53px" height="53px"><img src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo-500x283.png" alt="CSS" width="80px" height="58px">
-	 <img src="https://i0.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png?resize=300%2C209&ssl=1" alt="Bootstrap" width="58px" height="53px">
+	<img src="https://www.w3.org/html/logo/img/mark-only-icon.png" alt="HTML" width= "53px" height="53px"><img src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo-500x283.png" alt="CSS" width="77px" height="58px">
+	 <img src="https://i0.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png?resize=300%2C209&ssl=1" alt="Bootstrap" width="54px" height="53px">
 	<img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt="Javascript" width="53px" height="53px">
 	<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="NodeJs" width="53px" height="53px">
-	<img src="http://nightdeveloper.net/wp-content/uploads/2018/02/react.png" alt="React" width="90px" height="53px">
+	<img src="http://nightdeveloper.net/wp-content/uploads/2018/02/react.png" alt="React" width="87px" height="53px">
 	<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="53px" height="53px">
-	<img src="https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lgyno4NC7rhy49BAEjN%2F-Lh14lb3LH4C886qWxYA%2F-Lh1DZeIUQennGd9RiHe%2FScreen%20Shot%202019-06-10%20at%2011.30.20%20AM.png?alt=media&token=784b79f6-81b5-4308-97a2-155afb9d496f" alt="ExpressJs" width="90px" height="53px">
-	<img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="Sequelize" width="80px" height="53px">
+	<img src="https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lgyno4NC7rhy49BAEjN%2F-Lh14lb3LH4C886qWxYA%2F-Lh1DZeIUQennGd9RiHe%2FScreen%20Shot%202019-06-10%20at%2011.30.20%20AM.png?alt=media&token=784b79f6-81b5-4308-97a2-155afb9d496f" alt="ExpressJs" width="87px" height="53px">
+	<img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="Sequelize" width="77px" height="53px">
 	<img src="https://cdn.iconscout.com/icon/free/png-64/postgresql-11-1175122.png" alt="PostgreSQL" width="53px" height="53px">
 	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDb" width="53px" height="53px">
 	<img src="https://img.icons8.com/color/480/firebase.png" alt="MongoDb" width="53px" height="53px">
