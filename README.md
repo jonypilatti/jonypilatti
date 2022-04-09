@@ -27,7 +27,7 @@
 <p>🌱I'm currently focused on learning new coding languages like Python and Java. Also interested in learning other web development technologies like Angular and Backbone.</p>
 
 <ul>
-<li> 🔭 I’m currently working on an e-commerce for a cinema called CINEMAN. Which has a login with authentication, filters for promotions and discounts,an online cart for shopping,food,drinks or tickets and a payment history for Paypal and Mercadopago. </li>
+<li> 🔭 I’m currently working on an e-commerce simulation for a cinema called CINEMAN. Which has a login with authentication, filters for promotions and discounts,an online cart for shopping,food,drinks or tickets and a payment history for Paypal and Mercadopago. </li>
 	<li> 📫 How to reach me: jonypilatti@gmail.com or https://www.linkedin.com/in/jonypilatti/	</li>
 	<li> <p>😜Facts about me: I'm usually very easy to get along with because I always know what(or when) to say in a normal conversation. That's the reason why I also get along with many different kinds of people despite all of them having nothing in common. I love sports and have been practicing martial arts since I was 15. Nowadays I only lift weights in the gym.
 	</li>
