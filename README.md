@@ -1,4 +1,4 @@
-<h1 style="justify-content:center" 🌌🌌Hello there! 🌌🌌> </h1>
+<h1 style={"justify-content:center" display:"flex"} 🌌🌌Hello there! 🌌🌌> </h1>
 <h3>My name is Jonathan Pilatti 👋 and I'm a 26 years old Argentinian Full Stack Web Developer ❤️‍🔥.</h3>
 <div>Ever since I was a child I wanted to program videogames but at some point in life I ended up doing Civil Engineering🤔. During the pandemic, I had plenty of time available to wonder if that was really what I wanted to do with my life. Turns out it wasn't	😅. On January 2022, I entered HENRY for the full stack developer course. It was at that moment that I knew that was what I wanted to do with my life 😄. After giving my all I graduated from HENRY🤯. 
 </div>
