@@ -26,6 +26,8 @@
 <p> </p>
 <p>🌱I'm currently focused on learning new coding languages like Python and Java. Also interested in learning other web development technologies like Angular and Backbone.</p>
 
+<p><a href="https://portfolio-gamma-two-34.vercel.app/">Or you can check my own personal Portfolio!</a></p>
+
 <ul>
 <li> 🔭 I’m currently working on an e-commerce simulation for a cinema called CINEMAN. Which has a login with authentication, filters for promotions and discounts,an online cart for shopping,food,drinks or tickets and a payment history for Paypal and Mercadopago. </li>
 	<li> 📫 How to reach me: jonypilatti@gmail.com or https://www.linkedin.com/in/jonypilatti/	</li>
