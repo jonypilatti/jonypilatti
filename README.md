@@ -24,7 +24,7 @@
 <br></br>
 	
 <p> </p>
-<p>🌱I'm currently focused on learning new coding languages like Python and Java. Also interested in learning other web development technologies like Angular and Backbone.</p>
+<p>🌱I'm currently focused on learning new coding languages like Python.</p>
 
 <p><a href="https://portfolio-gamma-two-34.vercel.app/">Or you can check my own personal Portfolio!</a></p>
 
