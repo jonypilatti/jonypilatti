@@ -26,7 +26,7 @@
 <p> </p>
 <p>🌱I'm currently focused on learning new coding languages like Python.</p>
 
-<p><a href="https://portfolio-gamma-two-34.vercel.app/">Or you can check my own personal Portfolio!</a></p>
+<p><a href="https://portafoliojonathanpilatti.vercel.app/">Or you can check my own personal Portfolio!</a></p>
 
 <ul>
 	<li> 📫 How to reach me: jonypilatti@gmail.com or https://www.linkedin.com/in/jonypilatti/	</li>
