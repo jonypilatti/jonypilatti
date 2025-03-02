@@ -14,7 +14,7 @@ I specialize in **scalable web applications, SaaS, and API development**. Passio
 - **Cloud & DevOps:** AWS, Docker, Kubernetes  
 
 🚀 **Featured Projects:**  
-1️⃣ **[SaaS Boilerplate](https://github.com/your-repo)** – Full Next.js + FastAPI starter for building SaaS platforms.  
+1️⃣ **[SaaS Boilerplate]([saas-starter-next-fastapi](https://github.com/jonypilatti/saas-starter-next-fastapi))** – Full Next.js + FastAPI starter for building SaaS platforms.  
 2️⃣ **[AI API Integration](https://github.com/your-repo)** – API that connects to OpenAI/GPT-4 for automation.  
 3️⃣ **[E-Commerce Backend](https://github.com/your-repo)** – Scalable microservices backend using FastAPI & PostgreSQL.  
 
