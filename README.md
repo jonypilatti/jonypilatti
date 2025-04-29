@@ -15,12 +15,13 @@ I specialize in **scalable web applications, SaaS, and API development**. Passio
 
 🚀 **Featured Projects:**  
 1️⃣ **[SaaS Boilerplate](https://github.com/jonypilatti/saas-starter-next-fastapi)** – Full Next.js + FastAPI starter for building SaaS platforms.  
-2️⃣ **[AI API Integration](https://github.com/your-repo)** – API that connects to OpenAI/GPT-4 for automation.  
-3️⃣ **[E-Commerce Backend](https://github.com/your-repo)** – Scalable microservices backend using FastAPI & PostgreSQL.  
+
 
 📫 **Connect with me:**  
 - LinkedIn: [linkedin.com/in/jonypilatti](https://www.linkedin.com/in/jonypilatti/)  
 - Portfolio: [portafoliojonathanpilatti.vercel.app](https://portafoliojonathanpilatti.vercel.app/)  
-- Email: jonypilatti@gmail.com  
+- Email: jonypilatti@gmail.com
+
+As I mostly have experience working with startups. Most of my work is of private nature. If you want to know more about me, please schedule an Interview.
 
 ⭐ **If you like my work, consider following my GitHub!**  
